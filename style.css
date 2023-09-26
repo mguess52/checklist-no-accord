@@ -1,0 +1,57 @@
+#logo {
+  height: 120px;
+  width: 111px;
+}
+table {
+  position: relative;
+  margin: 0 auto;
+  width: 80%;
+  background-color: white;
+}
+td:first-child {
+  width: 200px;
+}
+td:nth-child(2) {
+  width: 80px;
+}
+td:nth-child(3) {
+  width: 80px;
+}
+td:nth-child(4) {
+  width: 80px;
+}
+.caret {
+text-align: center;
+}
+
+.body {
+  height: 45px;
+}
+
+.checkmark {
+  height: 20px;
+  width: 25px;
+  margin: 0 auto;
+  display: block;
+}
+.x-mark {
+  height: 15px;
+  width: 15px;
+  position: relative;
+  margin: 0 auto;
+  display: block;
+  clear: left;
+}
+.listitem {
+  font-family: 'Albert Sans';
+  font-weight: 900;
+  font-size: 23px;
+}
+#online {
+    font-family: 'Albert Sans', sans-serif;
+    font-weight: bold;
+    position: relative;
+    font-size: 20px;
+    right: 25px
+    clear: left;
+}
